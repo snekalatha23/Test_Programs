@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(	whse_rcpt whse_rcpt.cpp	)
+	add_executable(	sample1 sample1.c)
